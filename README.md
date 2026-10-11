@@ -68,3 +68,13 @@
 - Maintain consistent progress in coding and project development.
 
 > **Balancing personal responsibilities, academics, and project development — one day at a time. 💪**
+
+## 🕊️ October 10, 2026 — Family & Rituals
+
+- Went to the cremation ground at **7:00 AM** with my family to collect my Tauji's ashes.
+- Took care of household responsibilities, including giving clothes to the laundry.
+- Participated in the family's **mundan ceremony** following Tauji's passing.
+- Took part in the subsequent rituals, including preparations for the bhog.
+- Spent the day with family, fulfilling the traditional responsibilities and rituals following his passing.
+
+> **A day with family, remembering Tauji and fulfilling our traditions. 🕊️**
