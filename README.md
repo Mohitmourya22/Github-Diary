@@ -77,4 +77,4 @@
 - Took part in the subsequent rituals, including preparations for the bhog.
 - Spent the day with family, fulfilling the traditional responsibilities and rituals following his passing.
 
-
+> **A day with family, remembering Tauji and fulfilling our traditions. 🕊️**
