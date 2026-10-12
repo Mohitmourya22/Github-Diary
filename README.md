@@ -78,3 +78,16 @@
 - Spent the day with family, fulfilling the traditional responsibilities and rituals following his passing.
 
 > **A day with family, remembering Tauji and fulfilling our traditions. 🕊️**
+
+## 💻 October 11, 2026 — Household Responsibilities, ML & AyuMarg
+
+- Went to the market in the morning with my **Chachha** to buy a broom and a mop for household cleaning.
+- Helped with the **complete house cleaning**, including sweeping, mopping, and other household responsibilities.
+- Took part in the family rituals, including washing clothes and other items associated with the rituals.
+- Completed my **Machine Learning (ML) assignment**. ✅
+- Studied through **Aptitude lectures** to strengthen my problem-solving skills for competitive exams.
+- Worked on making the **AyuMarg major project fully responsive across all screen sizes**, including desktops, laptops, tablets, and mobile devices.
+- Improved the frontend layout to provide a smoother and more consistent user experience across different devices.
+- Balanced family responsibilities, academic work, aptitude preparation, and major project development throughout the day.
+
+> **Family responsibilities fulfilled, ML assignment completed, aptitude preparation continued, and AyuMarg moving toward a fully responsive UI. 🏠📚💻🩺**
