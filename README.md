@@ -113,22 +113,31 @@
 
 > **Learning, building, and exploring new opportunities — one step at a time. 💪🚀**
 
-## 📅 October 13, 2026
+## 📅 October 13, 2026 — College, Project Presentation & My Bharat
 
 - Visited the **Choice Centre** in the morning to get my income certificate issued.
 - Went to college and worked on my **Cyber Security assignment**, planning to complete and submit it on 14 October.
-- Attended the project presentation in front of **Priya Ma’am**.
-- Juniors visited to discuss plans and arrangements for the upcoming **Freshers’ Party**.
-- Bought an All Out refill on the way and got my bag’s chain repaired.
-- Was feeling slightly unwell throughout the day, so I took steam 2–3 times and rested after returning home.
-- Couldn’t study much due to my health and focused on getting proper rest.
-- Completed the **My Bharat essay submission**.
-- Explored team-building opportunities for a new My Bharat hackathon.
-- Planned the next steps for submitting all required documents for the **Post-Matric Scholarship** to Prince Sir on 14 October.
+- Presented our project in front of **Priya Ma’am**. 💻
+- Met with juniors who came to discuss plans and arrangements for the upcoming **Freshers’ Party**.
+- Bought an **All Out refill** on the way and got my bag’s chain repaired.
+- Felt slightly unwell throughout the day, so I took steam **2–3 times** and rested after returning home.
+- Couldn’t study much because of my health and focused on getting proper rest.
+- Completed the **My Bharat essay submission**. ✅
+- Explored team-building opportunities for a new **My Bharat hackathon**. 💡
+- Prepared for the next day's **Post-Matric Scholarship document submission** to Prince Sir.
 
-### 📌 Plan for October 14
-- Collect A4 sheets from **JK Max Image Copiers** for printing.
-- Submit all Post-Matric Scholarship documents to Prince Sir.
-- Complete and submit the Cyber Security assignment.
-- Continue with the ongoing **GATE CS preparation** and regular study routine.
-- Take proper rest and recover fully before getting back to a more productive study schedule.
+> **A day of college work, project presentation, innovation opportunities, and recovery. Taking things one step at a time. 💻📚💡**
+
+---
+
+### 🎯 Goals for October 14
+- Collect **A4 sheets from JK Max Image Copiers** for printing.
+- Submit all required **Post-Matric Scholarship documents** to Prince Sir.
+- Complete and submit the **Cyber Security assignment**. ✅
+- Continue **GATE CS preparation through PW classes** and maintain the regular study routine.
+- Work on the pending **TOC backlog** and remaining GATE lectures.
+- Continue preparing for **Aptitude** and competitive exams.
+- Explore team formation and participation opportunities for the **My Bharat hackathon**.
+- Take proper rest and recover from the cold before returning to a more productive routine.
+
+> **Tomorrow's mission: Complete pending submissions, move forward with GATE preparation, and get back on track while prioritizing health. 💪📚🚀**
