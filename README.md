@@ -112,3 +112,23 @@
 - Explore innovative ideas for the **Seva First Innovation Challenge**.
 
 > **Learning, building, and exploring new opportunities — one step at a time. 💪🚀**
+
+## 📅 October 13, 2026
+
+- Visited the **Choice Centre** in the morning to get my income certificate issued.
+- Went to college and worked on my **Cyber Security assignment**, planning to complete and submit it on 14 October.
+- Attended the project presentation in front of **Priya Ma’am**.
+- Juniors visited to discuss plans and arrangements for the upcoming **Freshers’ Party**.
+- Bought an All Out refill on the way and got my bag’s chain repaired.
+- Was feeling slightly unwell throughout the day, so I took steam 2–3 times and rested after returning home.
+- Couldn’t study much due to my health and focused on getting proper rest.
+- Completed the **My Bharat essay submission**.
+- Explored team-building opportunities for a new My Bharat hackathon.
+- Planned the next steps for submitting all required documents for the **Post-Matric Scholarship** to Prince Sir on 14 October.
+
+### 📌 Plan for October 14
+- Collect A4 sheets from **JK Max Image Copiers** for printing.
+- Submit all Post-Matric Scholarship documents to Prince Sir.
+- Complete and submit the Cyber Security assignment.
+- Continue with the ongoing **GATE CS preparation** and regular study routine.
+- Take proper rest and recover fully before getting back to a more productive study schedule.
