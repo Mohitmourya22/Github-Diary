@@ -154,4 +154,7 @@
 - Completed **one Aptitude lecture** in the evening.
 - Planned to work on the **E-Commerce (ECOM) assignment** before wrapping up the day.
 
-
+### 🎯 Pending Tasks
+- Complete the E-Commerce assignment.
+- Get back on track with regular studying and aptitude preparation.
+- Take proper rest and recover from the cold.
