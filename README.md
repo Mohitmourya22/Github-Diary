@@ -158,3 +158,21 @@
 - Complete the E-Commerce assignment.
 - Get back on track with regular studying and aptitude preparation.
 - Take proper rest and recover from the cold.
+
+## 📅 October 15, 2026 — College, Hackathon & Placement Preparation
+
+- 🏫 Visited college and participated in the **Machine Learning (ML) quiz**.
+- 🥟 Returned home and had samosas, followed by a meal of **dal and roti**.
+- 😴 Took some rest and slept to recover from the ongoing **cold and fever**.
+- 💡 Worked on the **first draft of the Seva First Innovation Challenge PPT**, using Canva templates to build the initial presentation.
+- 📚 Watched a **10-minute Physics Wallah (PW) lecture** to maintain my learning streak.
+- 🤧 Prioritized rest and recovery while keeping my studies light due to illness.
+- 💼 Applied for placement opportunities at companies, including **Zenus Group** and **First Hire Campus**.
+
+### 🎯 Goals for October 16, 2026
+
+- 🇮🇳 Register for **3 events on MyBharat**.
+- 💡 Complete the **final draft of the Seva First Innovation Challenge PPT**.
+- 🏆 Pay the registration fee for the **Janjatiya Freedom Quiz** and prepare to attempt it.
+- 🎓 Fill out the application form for **IIT JAM**.
+- 🤒 Continue recovering from cold and fever while maintaining a manageable study routine.
