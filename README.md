@@ -176,3 +176,22 @@
 - 🏆 Pay the registration fee for the **Janjatiya Freedom Quiz** and prepare to attempt it.
 - 🎓 Fill out the application form for **IIT JAM**.
 - 🤒 Continue recovering from cold and fever while maintaining a manageable study routine.
+
+## 📅 October 16, 2026 — College, Applications & Seva First
+
+- 🏫 Visited college and celebrated **Arpita's birthday**, sharing chocolates with everyone.
+- 📚 Submitted the **E-Commerce assignment** to Vivek Sir.
+- 🥟 Returned home and had samosas and poha.
+- 💡 Modified and improved the **Seva First Innovation Challenge PPT**, continuing work on the presentation.
+- 📝 Filled out the **IIT JAM application form**. Only the payment remains, which I plan to complete tomorrow.
+- 💼 Applied for the **Lab Assistant recruitment examination at Swami Atmanand** to explore another career opportunity.
+- 🕊️ Helped my family prepare food as my father, my cousin (Tauji's son), Anil Uncle, and my cousin's Nana Ji prepared to travel to Allahabad for Tauji's asthi visarjan and final rituals.
+- 🙏 Visited Tauji's home with my family and participated in the final rituals before my father and the others departed for the railway station.
+- 🏠 Had dinner with my family and returned home after the rituals.
+
+### 🎯 Plan for Tomorrow
+- Complete the IIT JAM application payment.
+- Continue preparing for GATE and competitive examinations.
+- Make further progress on the Seva First Innovation Challenge presentation.
+
+**A day of balancing college responsibilities, career opportunities, innovation work, and family commitments.**
