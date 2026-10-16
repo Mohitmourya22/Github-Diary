@@ -1,4 +1,4 @@
-# daily-coding-practice
+# Github-Diary
 
 ## October 03, 2026
 - Practiced JavaScript concepts.
