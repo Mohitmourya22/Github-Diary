@@ -195,3 +195,14 @@
 - Make further progress on the Seva First Innovation Challenge presentation.
 
 **A day of balancing college responsibilities, career opportunities, innovation work, and family commitments.**
+
+## 📚 October 17, 2026 — Aptitude, IIT JAM & Innovation
+
+- Completed **2 Aptitude lectures** to continue preparing for competitive exams.
+- Completed the **IIT JAM payment process**.
+- Attended to household cleaning and ritual-related responsibilities for Tauji's **Dasgaan (दसगात्र)** ceremony.
+- Completed the **second draft of the Seva First Innovation Challenge PPT**, making further progress on the presentation.
+- Watched approximately **half of Lecture 5 of the Theory of Computation (TOC)**, continuing the academic backlog.
+
+### 🎯 Daily Progress
+Balanced exam preparation, college studies, innovation work, and family responsibilities throughout the day. 🙏
