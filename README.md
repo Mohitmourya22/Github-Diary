@@ -223,3 +223,39 @@ TOC is nearing completion, but several subjects and revision tasks still need at
 - **Next Milestone:** Finish the 3 remaining Turing Machine lectures, then focus on clearing pending subject lectures while maintaining revision and practice.
 
 💡 **Reflection:** Today was a mix of client responsibilities, exploring an additional income source, and consistent GATE preparation. The backlog is still significant, but every completed lecture brings me one step closer to getting back on track. The goal now is to balance pending lectures with regular revision and PYQ practice rather than letting previously studied concepts fade away.
+
+## 💻 October 19, 2026 — GATE Preparation, AyuMarg Full-Stack Development & Chess
+
+### 🌅 Morning — GATE Preparation & Application Scrutiny
+
+- 📚 **GATE CS — Theory of Computation:** Started the day by completing the **Pushdown Automata (PDA)** portion of my TOC backlog and watching **one lecture on Turing Machines**.
+- 🧠 **Analytical Aptitude:** Started **Lecture 2** to continue preparing for competitive examinations.
+- 📝 **GATE Application Correction:** Reviewed my application during the GATE form correction window and completed the scrutiny process successfully. My application was accepted, and there were no errors in my application.
+
+### 💻 Daytime — AyuMarg Backend, UPI Payments & Deployment
+
+- 🩺 **Full-Stack Development:** Took the AyuMarg major project beyond the frontend by implementing backend APIs for bookings and payment submission/confirmation.
+- 🔍 **Debugging:** Identified missing Razorpay keys as the initial payment issue and understood how the doctor's fee is fetched from `doctors.fee_paise` in Supabase and copied into the booking record as `amount_paise`.
+- 💳 **Manual UPI Payment Flow:** Implemented a manual UPI QR and UTR submission workflow with a booking fee of **₹199** and a “Payment under verification” state.
+- 🗄️ **Supabase Database Updates:** Added payment-related fields, including `utr` and `payment_submitted_at`, and updated the payment status workflow to include `submitted`.
+- 📧 **Email Notifications:** Integrated Gmail using Nodemailer to notify the doctor and provide a signed confirmation link.
+- 🔐 **Security Improvements:** Ensured the server determines the booking fee, implemented unique-UTR handling, and secured confirmation links using `CONFIRM_SECRET`.
+- 🛠️ **Build Fix:** Removed the Twilio import that was causing a build issue.
+- 🧪 **Local Testing:** Tested the ₹199 fee, UTR submission, email notification, and payment-verification message locally.
+- 🚀 **GitHub & Vercel Deployment:** Pushed the changes to GitHub, completed the branch and merge workflow, and deployed the project to Vercel with the required environment variables.
+- 🐞 **Live Deployment Debugging:** Discovered a remaining production issue where bookings are being marked as “Confirmed” directly without displaying the QR/payment step. The root cause still needs investigation.
+
+### 🌙 Evening — Chess Rating Improvement
+
+- ♟️ **Chess Practice:** Continued working on improving my chess rating alongside GATE preparation and major project development.
+
+### 🎯 Next Steps
+
+- Investigate why the live Vercel deployment skips the QR/payment-verification flow and confirms bookings directly.
+- Check whether `NEXT_PUBLIC_USE_MOCKS` is configured correctly in the Vercel environment.
+- Redeploy after making any necessary environment-variable changes.
+- Continue the remaining Turing Machine lectures to complete the current TOC backlog.
+- Continue Analytical Aptitude Lecture 2 and maintain regular GATE preparation.
+- Keep practising chess and work towards improving my rating.
+
+💡 **Reflection:** Started the day with GATE preparation and successfully completed the GATE application scrutiny process without any application errors. The major focus of the day was taking AyuMarg closer to a complete full-stack application by integrating backend APIs, Supabase, manual UPI payments, email notifications, security measures, and Vercel deployment. Local testing worked, but the live deployment revealed a payment-flow issue that needs further debugging. Wrapped up the day by continuing my chess rating improvement journey. 💻📚🚀♟️
