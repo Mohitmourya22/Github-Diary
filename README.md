@@ -259,3 +259,10 @@ TOC is nearing completion, but several subjects and revision tasks still need at
 - Keep practising chess and work towards improving my rating.
 
 💡 **Reflection:** Started the day with GATE preparation and successfully completed the GATE application scrutiny process without any application errors. The major focus of the day was taking AyuMarg closer to a complete full-stack application by integrating backend APIs, Supabase, manual UPI payments, email notifications, security measures, and Vercel deployment. Local testing worked, but the live deployment revealed a payment-flow issue that needs further debugging. Wrapped up the day by continuing my chess rating improvement journey. 💻📚🚀♟️
+
+## 📅 October 20, 2026 — Project Updates & Family Responsibilities
+
+- 💻 Implemented the client's requested changes in the **AyuMarg project**, pushed the updates to Git, and the project should have been automatically redeployed on Vercel.
+- 🙏 Attended Tauji's **13th-day ceremony (Terahvi)**, including the puja and other rituals, which occupied most of the day.
+- 🤝 Met and interacted with several relatives and family members during the ceremony.
+- 😴 Returned home tired in the evening, spent some time watching reels, and went to sleep around 11 PM.
