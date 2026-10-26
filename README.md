@@ -316,3 +316,11 @@ TOC is nearing completion, but several subjects and revision tasks still need at
 - 📐 **Spatial Aptitude:** Completed Lecture 1; Lecture 2 is still pending.
 - 🌐 **Personal Portfolio:** Started working on my personal portfolio website.
 - 🎓 **GitHub Student Developer Pack:** Applied for the pack, and my application was successfully accepted! ✅
+
+## 💻 October 26, 2026 — Portfolio Deployment & MyBharat Prep
+
+- 🌐 **Personal Portfolio:** Built the portfolio website, pushed the code to GitHub, and successfully deployed it on Vercel.
+- 🚀 **MyBharat Hackathon:** Almost completed the PPT presentation. Remaining task: record the video demo, upload it to YouTube, hyperlink the URL, and submit the project.
+- 🛒 **Family Time:** Accompanied mom to the market in the evening around 4:00 PM for grocery shopping.
+
+> **Portfolio live on Vercel, MyBharat submission ready to wrap up. 🌐💻🚀**
