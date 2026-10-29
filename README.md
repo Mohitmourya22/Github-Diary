@@ -350,7 +350,7 @@ TOC is nearing completion, but several subjects and revision tasks still need at
 
 > **One long day completed. A few tasks remain, but every step counts. Time to finish up and get some rest. 🌙💪**
 
-### 📅 28 October 2026
+## 📅 28 October 2026
 
 - Attended college and the Cyber Security class; collected the upcoming quiz book from Mandavi Sir.
 - Heavy rainfall caused delays, so spent some time playing UNO in the canteen.
