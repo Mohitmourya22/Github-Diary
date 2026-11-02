@@ -434,3 +434,15 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 - Complete TOC lectures.
 - Complete remaining CN lectures.
 - Prepare ML and DMW for the CT on 3rd November.
+
+## 📅 2 November 2026
+
+📚 Study & Learning
+- 🌅 Started the day with tea and completed DSA: Queues (Lecture 2). Queue chapter completed!
+- 🌳 Started Trees and completed 2 lectures.
+- 🤖 Studied Machine Learning (ML) lectures during the evening.
+- 📖 Used NotebookLM to generate a slide deck and flashcards for ML revision. It helped a lot with understanding and quick preparation.
+📝 Upcoming CT Preparation
+- 🎯 Tomorrow's CT: Machine Learning (ML) & DMW.
+- 📑 Generated DMW study material and kept it ready for tomorrow.
+- ⏳ Plan: After the first-shift CT, use the available time to prepare for DMW.
