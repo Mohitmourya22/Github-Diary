@@ -462,3 +462,20 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 ### 🎯 Tomorrow's Plan | 4th November
 - 📝 Two more CT exams scheduled.
 - 📚 Focus on preparation and revision for both subjects.
+
+## 📅 4th November 2026
+
+- 🌅 Woke up, had tea, freshened up and prepared for the CT exams.
+- 📚 Studied IWT using NotebookLM for around 30 minutes before leaving for college.
+- 📝 1st Shift (11:45 AM – 1:15 PM): Appeared for the IWT CT.
+- 💻 Went to Astitva's PG and prepared for Cyber Security.
+- 📝 2nd Shift (3:15 PM – 4:45 PM): Appeared for the Cyber Security CT.
+- 🥟 After college, enjoyed veg momos, veg pakodas and French fries at Gandhi Chowk before heading home.
+- 😌 Relaxed at home, watched reels and took some chill time.
+- 📖 9 PM onwards: Studied ECOM and completed the preparation using NotebookLM. Only tomorrow's ECOM CT remains!
+- ♟️ Played rapid chess and pushed my rating to 1280. Target: 1300 tomorrow! 🚀
+
+### 🎯 Tomorrow's Target
+- ECOM CT preparation and exam.
+- ♟️ Reach 1300 Rapid Rating!
+- GATE Lectures DSA
