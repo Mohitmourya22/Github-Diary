@@ -447,3 +447,18 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 - 🎯 Tomorrow's CT: Machine Learning (ML) & DMW.
 - 📑 Generated DMW study material and kept it ready for tomorrow.
 - ⏳ Plan: After the first-shift CT, use the available time to prepare for DMW.
+
+## 📅 3rd November 2026
+
+- 🌅 Woke up, had tea and parathas, got ready and headed to college for CT exams.
+- 📝 **ML CT:** Appeared for the test from 11:45 AM to 1:15 PM.
+- 📚 Went to a friend's PG and prepared for the next CT.
+- 📝 **DMW CT:** Appeared for the test from 3:15 PM to 4:45 PM.
+- 🌆 Went to GGU with friends, enjoyed chaat and bhel, and returned home.
+- ☕ Had tea and went to get wheat flour milled.
+- 💻 Studied Cyber Security and IWT in the evening.
+- 😴 Felt sleepy, watched a few reels and eventually went to sleep.
+
+### 🎯 Tomorrow's Plan | 4th November
+- 📝 Two more CT exams scheduled.
+- 📚 Focus on preparation and revision for both subjects.
