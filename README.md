@@ -435,7 +435,7 @@ Complete TOC, continue Turing Machine preparation, and move forward with the rem
 - Complete remaining CN lectures.
 - Prepare ML and DMW for the CT on 3rd November.
 
-## 📅 2 November 2026
+## 📅 2nd November 2026
 
 📚 Study & Learning
 - 🌅 Started the day with tea and completed DSA: Queues (Lecture 2). Queue chapter completed!
