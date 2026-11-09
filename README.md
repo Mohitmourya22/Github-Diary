@@ -523,3 +523,31 @@ Next target: 1350 Rapid ♟️
 - Complete DSA Linked List.
 
 📝 Today's Note: Studied a little less today because OS L5 & L6 and Linked List L1 were quite challenging. Still, Process Synchronization is DONE! One chapter at a time. 🚀
+
+## 🪔 Day 8 November 2026 | Happy Diwali! ✨🎆
+
+A festive and productive day filled with celebrations, family responsibilities, and a little coding! ❤️
+
+### 📚 Learning & Development
+- Completed **OS Deadlock – Lecture 1 & 2** despite a busy festive schedule.
+
+### 💻 Development
+- Built a beautiful **Happy Diwali Website** featuring virtual sweets 🍬 and crackers 🎆.
+- Added a festive touch to the celebration through a fun virtual experience!
+
+### 🪷 Festivities & Family
+- Spent most of the day helping with household work and Diwali preparations.
+- Created a beautiful **Rangoli** in the evening. 🌸
+- Attended **Maa Lakshmi Puja from 9 PM to 11 PM** and celebrated the festival with family. 🙏
+
+### 🌟 Today's Highlights
+- 🎓 OS Deadlock: L1 & L2 completed
+- 💻 Happy Diwali Website: Built successfully
+- 🎨 Rangoli: Completed
+- 🪔 Lakshmi Mata Puja: 9 PM – 11 PM
+
+**A day of lights, learning, creativity, and gratitude!** Even with all the festive responsibilities, managed to keep the learning streak alive.
+
+🪔 **Happy Diwali! May this festival bring happiness, prosperity, and new opportunities.** ✨
+
+#HappyDiwali #DailyProgress #GitHubDiary #GATE2027 #OperatingSystems #WebDevelopment #KeepLearning
