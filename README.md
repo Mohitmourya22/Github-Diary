@@ -524,7 +524,7 @@ Next target: 1350 Rapid ♟️
 
 📝 Today's Note: Studied a little less today because OS L5 & L6 and Linked List L1 were quite challenging. Still, Process Synchronization is DONE! One chapter at a time. 🚀
 
-## 🪔 Day 8 November 2026 | Happy Diwali! ✨🎆
+## 🪔 8 November 2026 | Happy Diwali! ✨🎆
 
 A festive and productive day filled with celebrations, family responsibilities, and a little coding! ❤️
 
