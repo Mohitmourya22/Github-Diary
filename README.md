@@ -586,3 +586,20 @@ TOC PYQs hit hard today! 🥊 Couldn't solve many questions and felt demotivated
 - 🖥️ Continue the **Memory Management** chapter in Operating Systems.
 - 🔗 Make solid progress on **DSA Linked Lists**.
 - 🧮 Solve more **Aptitude DPPs** to stay sharp.
+
+## 📅 11 November 2026 — Daily Progress
+
+- 🪔 **Festivities & Family:** Celebrated **Bhai Dooj** — visited Chachi's and Lavi didi's home for tilak & lunch. 🍬✨
+- 💻 **Operating Systems:** Completed **Lectures 4, 5, and 6** of the **Memory Management** chapter! 🚀
+- 📄 **Project Sprint:** Verified complete **Project Documentation** setup. 📑
+- 🧺 **Daily Chores & Rest:** Took care of household chores and caught a well-deserved power nap. 😴⚡
+
+> **A balanced day combining rich festive culture, family time, and core OS progression! 💪🔥**
+
+---
+
+### 🎯 Plan for November 12, 2026
+
+- 🖥️ **Operating Systems:** Wrap up **Memory Management** + **File Systems** (Target: **Finish OS!** 🎯)
+- 🔗 **DSA:** Complete **Linked List — Lecture 2**. 🚀
+- 📊 **Practice:** Solve targeted GATE PYQs/DPPs for the completed OS chapters. 🧠
