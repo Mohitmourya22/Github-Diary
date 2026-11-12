@@ -603,3 +603,16 @@ TOC PYQs hit hard today! 🥊 Couldn't solve many questions and felt demotivated
 - 🖥️ **Operating Systems:** Wrap up **Memory Management** + **File Systems** (Target: **Finish OS!** 🎯)
 - 🔗 **DSA:** Complete **Linked List — Lecture 2**. 🚀
 - 📊 **Practice:** Solve targeted GATE PYQs/DPPs for the completed OS chapters. 🧠
+
+## 📅 12 Nov 2026 — Daily Progress
+
+### 📚 Academics & Mentorship
+- 👩‍🏫 Visited college and met Priya Mam (Project Guide).
+- 📝 Reviewed project documentation and received valuable suggestions for improvement.
+
+### 💻 Technical Progress
+- 💾 Completed OS Memory Management Lectures 7 & 8.
+- 🧠 Completed Aptitude DPP 6 & 8.
+
+### 🚀 Daily Reflection
+A productive day balancing project improvements, core CS concepts, and aptitude practice. One step forward every day! 💪
