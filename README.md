@@ -616,3 +616,15 @@ TOC PYQs hit hard today! 🥊 Couldn't solve many questions and felt demotivated
 
 ### 🚀 Daily Reflection
 A productive day balancing project improvements, core CS concepts, and aptitude practice. One step forward every day! 💪
+
+## 📅 13 November 2026
+
+- 💻 **OS:** Attempted 3 PYQ Quizzes (41 Questions, 69 Marks).
+- 🧮 **Aptitude:** Completed all 11 DPPs! ✅
+- 🧠 Faced challenges in OS PYQs, identifying areas needing improvement.
+
+### 🎯 Tomorrow's Targets
+- Start Analytical Aptitude DPPs.
+- Continue OS PYQs and start COA PYQs.
+
+> **PYQs are getting tougher, but giving up isn't an option. Learn from mistakes, fight back, and keep moving! 💪🔥**
