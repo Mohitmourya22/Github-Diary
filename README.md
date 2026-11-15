@@ -628,3 +628,28 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - Continue OS PYQs and start COA PYQs.
 
 > **PYQs are getting tougher, but giving up isn't an option. Learn from mistakes, fight back, and keep moving! 💪🔥**
+
+## 📅 14 November 2026 — Daily Progress
+
+### 🏫 Academics
+- 📝 Visited college and successfully submitted the **Machine Learning (ML) Lab Manual**.
+- 📊 Appeared for the **E-Commerce (ECOM) Quiz**.
+
+### 💻 GATE CS Preparation
+- 🧠 Practiced **Operating Systems (OS) PYQs** and faced difficulties with several questions.
+- 🚀 Built a dedicated **OS PYQ Practice Website** containing approximately **131 questions** to improve practice and strengthen GATE preparation.
+
+> **Challenges are part of the journey. I'll keep learning and fight till the end! 💪🔥**
+
+---
+
+## 📅 15 November 2026 — Daily Progress
+
+### 📚 GATE CS Preparation
+- 📺 Watched **OS PYQ solution videos on YouTube** to understand different approaches.
+- 🧠 Practiced PYQs from **Virtual Memory and Multilevel Paging**, improving conceptual clarity.
+
+### 🔗 Data Structures & Algorithms
+- ✅ Completed **Linked List – Lecture 3**.
+
+> **Understanding concepts, practising PYQs, and making consistent progress towards GATE 2027! 🚀💪**
