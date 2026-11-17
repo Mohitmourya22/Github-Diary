@@ -653,3 +653,19 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - ✅ Completed **Linked List – Lecture 3**.
 
 > **Understanding concepts, practising PYQs, and making consistent progress towards GATE 2027! 🚀💪**
+
+## 📅 16 November 2026 — Daily Progress
+
+### 🇮🇳 MyBharat
+- 📝 Attempted **all MyBharat quizzes** in the morning. ✅
+
+### 💻 GATE CS Preparation
+- 🧠 Practiced **OS PYQs** covering Threads, Process Synchronization, and theoretical questions.
+- 🔗 Completed the **DSA Linked List** chapter.
+- 🌳 Started **DSA Graphs & Hashing – Lecture 1**.
+
+### 🎓 Grand Viva Preparation
+- 📊 Generated subject-wise **slide decks using NotebookLM** for the Grand Viva scheduled for 17th November.
+- 🌙 Wrapped up the day's work and went to sleep at **12 AM**.
+
+> **OS PYQs practised, Linked List completed, Graphs started, and Grand Viva preparation done. One step closer to the goal! 💪🚀**
