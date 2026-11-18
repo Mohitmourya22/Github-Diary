@@ -669,3 +669,21 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - 🌙 Wrapped up the day's work and went to sleep at **12 AM**.
 
 > **OS PYQs practised, Linked List completed, Graphs started, and Grand Viva preparation done. One step closer to the goal! 💪🚀**
+
+## 📅 17 November 2026 — Daily Progress
+
+### 🎓 Academics & College
+- ✅ Successfully completed the **Grand Viva**.
+- 🎉 Reviewed the Freshers' Party invitation designed by our juniors.
+- 🍪 Shared homemade Thekua with Simmi Baghel, Astitva, and Ritika.
+
+### 💻 GATE CS & Technical Progress
+- 🌳 Completed **DSA Graphs**, finishing the DSA syllabus!
+- 🧠 Practised OS PYQs on **CPU Scheduling**.
+- 🚀 Continued developing the **GATE PYQ Practice Website**.
+
+### ♟️ Personal
+- ❤️ Spent quality time with family guests (Krishna Uncle).
+- Relaxed, watched reels, and played chess.
+
+> **Grand Viva completed, DSA syllabus finished, and GATE PYQ project progressing. One day at a time! 💪🚀**
