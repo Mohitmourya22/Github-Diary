@@ -687,3 +687,13 @@ A productive day balancing project improvements, core CS concepts, and aptitude 
 - Relaxed, watched reels, and played chess.
 
 > **Grand Viva completed, DSA syllabus finished, and GATE PYQ project progressing. One day at a time! 💪🚀**
+
+## 📅 18 November 2026 — Daily Progress
+
+- 🌿 Amla Navami: Celebrated with Kheer and Puri and worshipped the Amla plant on the rooftop. 🙏
+- 💻 Operating Systems: Completed PYQs on CPU Scheduling, Page Replacement, and Resource Allocation.
+- 📚 OS Lectures: Completed the File System lecture.
+- 🚀 PYQ Practice Websites: Used AI to extract questions from PDFs and generate dedicated practice websites for DELD, C Programming, and DSA.
+- 🔧 Currently working on OS and COA PYQ websites and continuing question practice across subjects.
+
+> **Celebrations, OS progress, and AI-powered PYQ practice. Building tools, solving questions, and moving closer to GATE 2027! 💪🚀**
